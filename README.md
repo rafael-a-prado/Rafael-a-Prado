@@ -2,8 +2,8 @@
 
 **`Analista de BI | Analista de Dados | Cientista de Dados`**
 
-Fui professor de Matemática pela SEDUC/SP há 15 anos e, desde 2021, iniciei minha transição de carreira para a área de tecnologia. Concluí o Bacharelado em `Tecnologia da Informação` pela `UNIVESP` em junho de 2024 e, atualmente, curso `Gerência de Dados` pela `Escola DNC` — área na qual pretendo atuar profissionalmente.
-Você pode encontrar mais informações sobre minha trajetória no meu perfil do "[LinkedIn](https://www.linkedin.com/in/rafael-de-almeida-prado-32a54421a/)".
+Fui professor de Matemática pela SEDUC/SP durante 15 anos e, desde 2021, iniciei minha transição de carreira para a área de tecnologia. Concluí o Bacharelado em `Tecnologia da Informação` pela `UNIVESP` em junho de 2024 e, atualmente, curso `Gerência de Dados` pela `Escola DNC` — área na qual pretendo atuar profissionalmente.
+Você pode encontrar mais informações sobre minha trajetória no meu perfil do "[LinkedIn](https://www.linkedin.com/in/rafael-de-almeida-prado/)".
 
 <p align="left">
     <a href="https://github.com/Rafael-a-Prado?tab=Seguidores">
